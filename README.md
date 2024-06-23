@@ -35,7 +35,7 @@ Insert gif or link to demo
 
 #### 1. Clone the repository:
 ```bash
-git clone https://github.com/Shreyas-Swain-10/VoxHive.git
+git clone https://github.com/Shreyas-Swain-10/WordWanderer.git
 ```
 
 #### 2. Navigate to the project directory:
