@@ -40,7 +40,7 @@ git clone https://github.com/Shreyas-Swain-10/WordWanderer.git
 
 #### 2. Navigate to the project directory:
 ```bash
-cd VoxHive
+cd wordwanderer
 ```
 
 #### 3. Install dependencies:
