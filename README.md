@@ -7,7 +7,15 @@ This repository contains a dictionary built with Next.js.
 &nbsp;
 
 ## 📌 Features
+- **Word Meanings** :  Retrieves and displays meanings of a word in various contexts (noun, verb, etc.).
 
+- **Synonyms and Antonyms** :  Provides lists of synonyms and antonyms for the queried word.
+
+- **Pronunciation** :  Includes the pronunciation of the word, often with an audio file for correct pronunciation.
+
+- **Phonetic Representation** :  Displays the phonetic transcription of the word.
+
+- **Derivations** :  Shows the word's derivations and related forms.
 
 &nbsp;
 
