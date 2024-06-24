@@ -2,7 +2,7 @@
 
 
 ## ✒️ Brief
-This repository contains a dictionary built with Next.js.
+This repository contains a dictionary app built with Next.js that provides comprehensive word details including meanings, synonyms, antonyms, pronunciation, phonetic transcription, and word derivations.
 
 &nbsp;
 
